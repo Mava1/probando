@@ -11,3 +11,4 @@ document.addEventListener("DOMContentLoaded", function() {
         bannerImage.style.transform = "scale(1)";
     });
 });
+
